@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DCE</string>
+
+    <string name="navigation_drawer_open">DCE</string>
+    <string name="navigation_drawer_close">DCE</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="encryption">Choose one of the encoding techniques for encoding your string data or for generation of cipher text. </string>
+    <string name="decryption">Add your cipher or encoded text, key used for encryption and choose the encoded algorithm to instantly decode your data.</string>
+    <string name="compression">Choose one of the Audio or Image compression algorithms to compress your data, inorder to consume less space or for various other activities</string>
+
+    <string name="title_activity_decryption">Decryption</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

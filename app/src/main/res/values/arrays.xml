@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="checkboxes_rsa">
+        <item>Value of Phi</item>
+        <item>Product of Prime numbers</item>
+        <item>Encoded text</item>
+        <item>Public key</item>
+        <item>Only encoded text</item>
+    </string-array>
+    <string-array name="checkboxes_vc">
+        <item>Encoding key</item>
+        <item>Encoded text</item>
+        <item>Only the encoded text</item>
+    </string-array>
+</resources>

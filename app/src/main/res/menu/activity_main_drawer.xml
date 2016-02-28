@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/home"
+            android:title="Home" />
+
+    </group>
+
+    <item android:title="Encoding Algorithms">
+        <menu>
+            <item
+                android:id="@+id/nav_huffman"
+                android:title="Huffman Encoding" />
+
+            <item
+                android:id="@+id/nav_arithmetic"
+                android:title="Arithmetic Encoding" />
+
+            <item
+                android:id="@+id/nav_lzw"
+                android:title="LZW Encoding" />
+        </menu>
+    </item>
+
+    <item android:title="Cipher Text Algorithms">
+        <menu>
+            <item
+                android:id="@+id/nav_caesar"
+                android:title="Caesar Cipher" />
+
+            <item
+                android:id="@+id/nav_vignere"
+                android:title="Vignere Cipher" />
+
+            <item
+                android:id="@+id/nav_euclidean"
+                android:title="Extended Euclidean" />
+
+            <item
+                android:id="@+id/nav_rsa"
+                android:title="RSA Algorithm" />
+
+            <item
+                android:id="@+id/nav_diff"
+                android:title="Diffie Hellman" />
+        </menu>
+    </item>
+
+    <item android:title="Image Compression">
+        <menu>
+            <item android:id="@+id/nav_huffman1"
+                android:title="None" />
+        </menu>
+    </item>
+    <item android:title="Audio Compression">
+        <menu>
+            <item android:id="@+id/nav_huffman2"
+                android:title="None" />
+        </menu>
+    </item>
+
+</menu>
